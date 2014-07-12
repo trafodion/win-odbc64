@@ -1,0 +1,10 @@
+Code-Review+2: Steve Varnau <steve.varnau@hp.com>
+Workflow+1: Steve Varnau <steve.varnau@hp.com>
+Verified+2: Trafodion Jenkins
+Code-Review+1: Faye Brackett <faye.brackett@hp.com>
+Code-Review+1: Arvind Narain <arvind.narain@hp.com>
+Submitted-by: Trafodion Jenkins
+Submitted-at: Sat, 12 Jul 2014 02:37:23 +0000
+Reviewed-on: https://review.trafodion.org/83
+Project: trafodion/win-odbc64
+Branch: refs/heads/proposed/0.8.3
