@@ -1,0 +1,12 @@
+Verified+2: Trafodion Jenkins
+Code-Review+1: Chris Sheedy <chris.sheedy@hp.com>
+Code-Review+2: Anuradha <anuradha.hegde@hp.com>
+Workflow+1: Anuradha <anuradha.hegde@hp.com>
+Code-Review+2: Tharak Capirala <capirala.tharaknath@hp.com>
+Code-Review+1: rajeswari muddu <rajeswari.j.muddu@hp.com>
+Code-Review+1: RuoYu Zuo <ruo-yu.zuo@hp.com>
+Submitted-by: Trafodion Jenkins
+Submitted-at: Wed, 23 Jul 2014 19:19:00 +0000
+Reviewed-on: https://review.trafodion.org/132
+Project: trafodion/win-odbc64
+Branch: refs/heads/master
