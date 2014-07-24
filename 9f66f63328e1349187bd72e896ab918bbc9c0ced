@@ -1,0 +1,9 @@
+Verified+2: Trafodion Jenkins
+Code-Review+1: Faye Brackett <faye.brackett@hp.com>
+Code-Review+2: Daniel Lu <ping.lu@hp.com>
+Workflow+1: Daniel Lu <ping.lu@hp.com>
+Submitted-by: Trafodion Jenkins
+Submitted-at: Thu, 24 Jul 2014 04:05:14 +0000
+Reviewed-on: https://review.trafodion.org/148
+Project: trafodion/win-odbc64
+Branch: refs/heads/master
