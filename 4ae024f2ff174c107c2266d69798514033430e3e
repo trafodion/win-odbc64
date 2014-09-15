@@ -1,0 +1,8 @@
+Verified+2: Trafodion Jenkins
+Code-Review+2: Arvind Narain <arvind.narain@hp.com>
+Workflow+1: Arvind Narain <arvind.narain@hp.com>
+Submitted-by: Trafodion Jenkins
+Submitted-at: Mon, 15 Sep 2014 20:45:22 +0000
+Reviewed-on: https://review.trafodion.org/384
+Project: trafodion/win-odbc64
+Branch: refs/heads/master
