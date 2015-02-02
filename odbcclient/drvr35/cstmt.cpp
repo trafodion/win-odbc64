@@ -4173,7 +4173,7 @@ SQLRETURN CStmt::GetData(SQLUSMALLINT ColumnNumber,
 	SQLSMALLINT		SQLUnsigned=0;
 
 	short			SQLDataInd=0;
-	short			SQLDataLength=0;
+	int			SQLDataLength=0;
 	BYTE*			SQLDataRow; 
 	BYTE*			SQLDataValue;
 	unsigned long	offset=0;
