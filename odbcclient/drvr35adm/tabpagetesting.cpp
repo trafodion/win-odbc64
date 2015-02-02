@@ -125,11 +125,10 @@ void TabPageTesting::OnTestconn()
 __try
 {
 	ListBoxAddString("Trying to Connect....");
-	
-	
+	UpdateWindow();
 	// Association Service (IP Address and Port Number)
 	wsprintf((char*)buf, "%s%s/%s", TCP_STR, aAttr[ KEY_IPADDRESS].szAttr, aAttr[ KEY_PORTNUM].szAttr);
-	sprintf(ConnectString,"DRIVER=%s;SERVER=%s;CATALOG=%s;SCHEMA=%s;ServerDSN=%s;SQL_LOGIN_TIMEOUT=5",
+	sprintf(ConnectString,"DRIVER=%s;SERVER=%s;CATALOG=%s;SCHEMA=%s;ServerDSN=%s;",
 			DRIVER_NAME, buf, aAttr[KEY_CATALOG].szAttr, aAttr[KEY_SCHEMA].szAttr, aAttr[ KEY_DSN].szAttr);
 
 	if (SQL_SUCCESS!=(returncode = SQLAllocEnv(&henv)))
@@ -166,7 +165,6 @@ __finally
 	{
 		ListBoxAddString("Connection Test failed.");
 	}
-	m_testconn.SetFocus();
 }
 }
 
