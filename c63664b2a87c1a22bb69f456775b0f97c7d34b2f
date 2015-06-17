@@ -1,0 +1,8 @@
+Verified+2: Trafodion Jenkins
+Code-Review+2: Hans Zeller <hans.zeller@hp.com>
+Workflow+1: Hans Zeller <hans.zeller@hp.com>
+Submitted-by: Trafodion Jenkins
+Submitted-at: Wed, 17 Jun 2015 00:49:41 +0000
+Reviewed-on: https://review.trafodion.org/1781
+Project: trafodion/win-odbc64
+Branch: refs/heads/master
